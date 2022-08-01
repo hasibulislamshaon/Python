@@ -1,6 +1,3 @@
-from tokenize import Double
-
-
 name=input("Name:  ")
 if name=="shaon":
     print(f"Hi {name} .I am Github")
@@ -9,8 +6,10 @@ elif name=="john":
 else:
     print("Invalid name")
 
-number =int(input("Enter any Number"))
+number =int(input("Enter any Number:"))
 if number > 0:
     print("Its an positive number")
+elif number<0:
+    print("Negative number")
 else:
     print("its not a valid")
