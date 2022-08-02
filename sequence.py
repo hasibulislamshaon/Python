@@ -1,7 +1,8 @@
 name= input("Name: ")
 
 
-if len(name)==5:
+
+if len(name)<9:
 
  print("First letter sequence:")
  if(name[0]=="a"):
@@ -58,9 +59,9 @@ if len(name)==5:
      print("26")
  else:
      print("not in the paremitter")
- 
+
  print("Second letter sequence:")
- if(name[1]=="a"):
+ if name[1]=="a":
      print("1")
  elif(name[1]=="b"):
      print("2")
@@ -114,7 +115,7 @@ if len(name)==5:
      print("26")
  else:
      print("not in the paremitter")
- 
+
  print("Third letter sequence:")
  if(name[2]=="a"):
      print("1")
@@ -170,7 +171,7 @@ if len(name)==5:
      print("26")
  else:
      print("not in the paremitter")
- 
+
  print("Fourth letter sequence:")
  if(name[3]=="a"):
      print("1")
@@ -226,6 +227,7 @@ if len(name)==5:
      print("26")
  else:
      print("not in the paremitter")
+
  
  print("Fifth letter sequence:")
  if(name[4]=="a"):
@@ -282,5 +284,175 @@ if len(name)==5:
      print("26")
  else:
      print("not in the paremitter")
+
+
+ print("Sixth letter sequence:")
+ if(name[5]=="a"):
+     print("1")
+ elif(name[5]=="b"):
+     print("2")
+ elif(name[5]=="c"):
+     print("3")
+ elif(name[5]=="d"):
+     print("4")
+ elif(name[5]=="e"):
+     print("5")
+ elif(name[5]=="f"):
+     print("6")
+ elif(name[5]=="g"):
+     print("7")
+ elif(name[5]=="h"):
+     print("8")
+ elif(name[5]=="i"):
+     print("9")
+ elif(name[5]=="j"):
+     print("10")
+ elif(name[5]=="k"):
+     print("11")
+ elif(name[5]=="l"):
+     print("12")
+ elif(name[5]=="m"):
+     print("13")
+ elif(name[5]=="n"):
+     print("14")
+ elif(name[5]=="o"):
+     print("15")
+ elif(name[5]=="p"):
+     print("16")
+ elif(name[5]=="q"):
+     print("17")
+ elif(name[5]=="r"):
+     print("18")
+ elif(name[5]=="s"):
+     print("19")
+ elif(name[5]=="t"):
+     print("20")
+ elif(name[5]=="u"):
+     print("21")
+ elif(name[5]=="v"):
+     print("22")
+ elif(name[5]=="w"):
+     print("23")
+ elif(name[5]=="x"):
+     print("24")
+ elif(name[5]=="y"):
+     print("25")
+ elif(name[5]=="z"):
+     print("26")
+ else:
+     print("not in the paremitter")
+
+ print("Seventh letter sequence:")
+ if(name[6]=="a"):
+     print("1")
+ elif(name[6]=="b"):
+     print("2")
+ elif(name[6]=="c"):
+     print("3")
+ elif(name[6]=="d"):
+     print("4")
+ elif(name[6]=="e"):
+     print("5")
+ elif(name[6]=="f"):
+     print("6")
+ elif(name[6]=="g"):
+     print("7")
+ elif(name[6]=="h"):
+     print("8")
+ elif(name[6]=="i"):
+     print("9")
+ elif(name[6]=="j"):
+     print("10")
+ elif(name[6]=="k"):
+     print("11")
+ elif(name[6]=="l"):
+     print("12")
+ elif(name[6]=="m"):
+     print("13")
+ elif(name[6]=="n"):
+     print("14")
+ elif(name[6]=="o"):
+     print("15")
+ elif(name[6]=="p"):
+     print("16")
+ elif(name[6]=="q"):
+     print("17")
+ elif(name[6]=="r"):
+     print("18")
+ elif(name[6]=="s"):
+     print("19")
+ elif(name[6]=="t"):
+     print("20")
+ elif(name[6]=="u"):
+     print("21")
+ elif(name[6]=="v"):
+     print("22")
+ elif(name[6]=="w"):
+     print("23")
+ elif(name[6]=="x"):
+     print("24")
+ elif(name[6]=="y"):
+     print("25")
+ elif(name[6]=="z"):
+     print("26")
+ else:
+     print("not in the paremitter")
+
+
+ print("Eighth letter sequence:")
+ if(name[7]=="a"):
+     print("1")
+ elif(name[7]=="b"):
+     print("2")
+ elif(name[7]=="c"):
+     print("3")
+ elif(name[7]=="d"):
+     print("4")
+ elif(name[7]=="e"):
+     print("5")
+ elif(name[7]=="f"):
+     print("6")
+ elif(name[7]=="g"):
+     print("7")
+ elif(name[7]=="h"):
+     print("8")
+ elif(name[7]=="i"):
+     print("9")
+ elif(name[7]=="j"):
+     print("10")
+ elif(name[7]=="k"):
+     print("11")
+ elif(name[7]=="l"):
+     print("12")
+ elif(name[7]=="m"):
+     print("13")
+ elif(name[7]=="n"):
+     print("14")
+ elif(name[7]=="o"):
+     print("15")
+ elif(name[7]=="p"):
+     print("16")
+ elif(name[7]=="q"):
+     print("17")
+ elif(name[7]=="r"):
+     print("18")
+ elif(name[7]=="s"):
+     print("19")
+ elif(name[7]=="t"):
+     print("20")
+ elif(name[7]=="u"):
+     print("21")
+ elif(name[7]=="v"):
+     print("22")
+ elif(name[7]=="w"):
+     print("23")
+ elif(name[7]=="x"):
+     print("24")
+ elif(name[7]=="y"):
+     print("25")
+ elif(name[7]=="z"):
+     print("26")
+ else:
+      print("not in the paremitter")
 else:
-    print("Enter name between 5 word in small letter")
+    print("Code is developing")
