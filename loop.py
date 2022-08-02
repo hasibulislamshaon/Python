@@ -1,5 +1,5 @@
-number=int(input("Enter starting number"))
-name=int(input("Enter some names as string: "))
+number=int(input("Enter starting number: "))
+name=int(input("Enter a range of function: "))
 
 print("All Number")
 for number in range(name):
