@@ -283,4 +283,4 @@ if len(name)==5:
  else:
      print("not in the paremitter")
 else:
-    print("Enter name between 5 word")
+    print("Enter name between 5 word in small letter")
