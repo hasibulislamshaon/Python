@@ -2,7 +2,7 @@ def EXPECTED_BAKE_TIME():
    return int(40)
    """This function will tell the expected bake time for the recipe"""
 
-def bake_time_remaining(elapsed_bake_time):
+def bake_time_remaining(self,elapsed_bake_time):
     """This function will return the remaining bake time"""
     return 40-elapsed_bake_time
 

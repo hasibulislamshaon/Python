@@ -9,6 +9,7 @@ print("Unsorted= ",bangladesh_city_name)
 #sort method in list
 bangladesh_city_name.sort()
 print("Sorted= ",bangladesh_city_name)
+print(f"All city list{bangladesh_city_name}")
 
 
 #created a set
@@ -22,4 +23,4 @@ name.add("a")
 name.add(2)
 name.add(4)
 
-print(name)
+print(f"Set numbers {name}")
